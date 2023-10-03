@@ -1,0 +1,16 @@
+.background__Color {
+  background-color: aqua;
+  width: 100% !important;
+  height: 100vh !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.classna {
+  width: 50%;
+  height: auto;
+  color: white;
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+}
